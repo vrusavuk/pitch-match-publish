@@ -55,7 +55,7 @@
           width="50" 
         />
         <h3>Create games</h3>
-        <p>Book a soccer filed nearby, create a game event and invite people to your game</p>
+        <p>Book a soccer field nearby, create a game event and invite people to your game</p>
       </v-col>
     </v-row>
     </v-container>
