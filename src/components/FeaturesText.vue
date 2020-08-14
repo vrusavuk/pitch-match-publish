@@ -12,7 +12,7 @@
     </v-row>       
     <v-row class="p">
     <p>
-        Pitch-Match is a user friendly app and is very easy to use. We made sure you fully enjoy your experience, from meeting with people up to playing soccer!
+      Pitch-Match is an iOS and Android application that allows you to view all<br>soccer fields in your city and subscribe to real life soccer games.<br>Create an account, choose a field, enter a game. You are ready to go!
     </p>    
     </v-row>
     <v-row class="pt">
@@ -93,10 +93,10 @@ export default {
 }
 
 .p p {
-  font-size: 25px;
+  font-size: 23px;
   font-weight: 300;
   color: #291e33;
-  max-width: 900px;
+  
   line-height: 36px;
   padding: 0px;
   margin: 0 auto;
