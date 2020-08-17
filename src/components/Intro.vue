@@ -4,16 +4,16 @@
         <p>Soccer available for everyone at any time!</p>
             <div class="row">
               <div class="c">
-                <a href="https://search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?mt=8&path=appstore">
+                <router-link to="/en">
                   <img alt="App Store Badge" src="./../assets/app-store-badge.png"
                   width="200" height="auto">
-                </a> 
+                </router-link> 
               </div>
               <div class="c">
-                <a href="https://play.google.com/store/apps?hl=en">
+                <router-link to="/en">
                   <img alt="App Store Badge" src="./../assets/google-play-badge.png"
                   width="200" height="auto">
-                </a> 
+                </router-link> 
               </div>
             </div>
           </div>

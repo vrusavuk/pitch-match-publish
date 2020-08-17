@@ -8,14 +8,14 @@
       Приложение доступно на всех iOS и Android устройствах
     </p>
     <p>
-      <a class="badge" href="https://search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?mt=8&path=appstore">
+      <router-link class="badge" to="/ru">
                   <img alt="App Store Badge" src="./../assets/app-store-badge.png"
                   width="150" height="auto">
-      </a> 
-      <a href="https://play.google.com/store/apps?hl=en">
+      </router-link> 
+      <router-link class="badge" to="/ru">
         <img alt="App Store Badge" src="./../assets/google-play-badge.png"
         width="150" height="auto">
-      </a> 
+      </router-link> 
     </p>
     <h4>
       2020 Pitch-Match &#9917All rights reserved
