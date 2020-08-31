@@ -8,12 +8,12 @@
       Available for all iOS and Android devices
     </p>
     <p>
-      <router-link class="badge" to="/en">
+      <a class="badge" href="https://apps.apple.com/ru/app/pitch-match/id1479033675">
                   <img alt="App Store Badge" src="./../assets/app-store-badge.png"
                   width="150" height="auto">
-      </router-link> 
+      </a>
      <router-link class="badge" to="/en">
-        <img alt="App Store Badge" src="./../assets/google-play-badge.png"
+        <img alt="Google Play Badge" src="./../assets/google-play-badge.png"
         width="150" height="auto">
       </router-link> 
     </p>

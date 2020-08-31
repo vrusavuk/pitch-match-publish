@@ -4,19 +4,19 @@
         <p>Футбол доступен для всех, в любое время!</p>
             <div class="row">
               <div class="c">
-                <router-link to="/ru">
+                <a href="https://apps.apple.com/ru/app/pitch-match/id1479033675">
                   <img alt="App Store Badge" src="./../assets/app-store-badge.png"
                   width="200" height="auto">
-                </router-link> 
+                </a> 
               </div>
               <div class="c">
                 <router-link to="/ru">
-                  <img alt="App Store Badge" src="./../assets/google-play-badge.png"
+                  <img alt="Google Play Badge" src="./../assets/google-play-badge.png"
                   width="200" height="auto">
                 </router-link> 
               </div>
             </div>
-          </div>
+      </div>
 </template>
 
 <script>

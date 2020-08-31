@@ -4,7 +4,7 @@
         <p>Soccer available for everyone at any time!</p>
             <div class="row">
               <div class="column">
-                <a href="https://search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?mt=8&path=appstore">
+                <a href="https://apps.apple.com/ru/app/pitch-match/id1479033675">
                   <img alt="App Store Badge" src="./../assets/app-store-badge.png"
                   width="200" height="auto">
                 </a> 
