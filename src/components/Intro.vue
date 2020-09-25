@@ -10,10 +10,10 @@
                 </a> 
               </div>
               <div class="c">
-                <router-link to="/en">
+                <a class="badge" href="https://play.google.com/store/apps/details?id=com.pitchmatch&hl=en">
                   <img alt="Google Play Badge" src="./../assets/google-play-badge.png"
                   width="200" height="auto">
-                </router-link> 
+                </a> 
               </div>
             </div>
         </div>
